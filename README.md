@@ -1,5 +1,5 @@
 # Portfolio Website
-![image](https://github.com/user-attachments/assets/781e622f-911f-42c9-8a0d-90b33dfbba25)
+![image]([https://github.com/user-attachments/assets/781e622f-911f-42c9-8a0d-90b33dfbba25](https://dreamy-parfait-9e101d.netlify.app/))
 
 
 Welcome to the repository for my portfolio website! This project showcases my skills, experience, services i provide and projects as a developer.
